@@ -160,4 +160,4 @@ Prevent unexpected Azure costs by notifying when usage exceeds limits.
 
 ## 📬 Contact
 
-If you need more Azure projects or resume help, feel free to reach out!
+samuelrufusm@outlook.com
